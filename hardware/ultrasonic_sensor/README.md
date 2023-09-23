@@ -1,5 +1,5 @@
 # Ultrasonic sensor description 
-![run status](.\static\img\Ultrasonic_sensor_example.gif)
+![run status](../static/img/Ultrasonic_sensor_example.gif)
 
 ## 硬件清单 Hardware List
 - Arduino UNO R3
